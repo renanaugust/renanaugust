@@ -1,4 +1,4 @@
-## Olá mundo,</br> Eu sou o Renan Augusto, desenvolvedor Front End
+## Olá mundo,</br> Eu sou o Renan Augusto, desenvolvedor Front-End
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="500"/>
   
