@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" width="150" src="https://media.licdn.com/dms/image/D4E03AQGbR_3FTRGGQQ/profile-displayphoto-shrink_200_200/0/1664462514256?e=1676505600&amp;v=beta&amp;t=Nc7o7DgAPQ82-J0bwgj7zSzAkGqNrIghhAF7wqtwFWA" height="150" alt="Renan Augusto dos Santos" id="ember224" class="ember-view profile-photo-edit__preview">
 </div>
   
   ##
